@@ -1,13 +1,17 @@
 # Shoppu-Online
 Shoppu Online is a platform where you can buy and sell almost everything.
 
-
-[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=wU_ueGMMpF0)
+## Home Page 
+![Homepage](shoppu%20image.png)  
 
 ## 🧾 Features
-- Buy, sell, rent, or exchange items
+- Buy, sell, rent, or exchange any items (clothes, phones, TVs, cars, land, services, etc)
 - Facebook-based marketplace model
 - Free ad posting
+
+## Promotion
+![Second Page](shoppu%20Image%20-2.png)
+
 
 ## 🚫 No Source Code
 This repo is for demo and UI showcase purposes only.
