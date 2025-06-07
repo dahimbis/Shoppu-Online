@@ -8,6 +8,7 @@ Shoppu is an online platform where you can buy and sell almost everything. The b
 - Buy, sell, rent, or exchange items like clothes, phones, TVs, cars, land, and services
 - Simple and to use
 - Free ad posting
+- Meeting customers and clients allover the world
 
 ## 🎯 Promotions  
 ![Promotion Page](shoppu%20Image%20-2.png)
