@@ -7,7 +7,7 @@ Shoppu is an online platform where you can buy and sell almost everything in Uga
 ## 🧾 Features
 - Buy, sell, rent, or exchange items like clothes, phones, TVs, cars, land, and services
 - Simple and to use
-- Free ad posting
+- Free ad posting - Premium is also available for customers who would like to see their items first.
 - Meet customers and clients all over the world
 
 ## 🎯 Promotions  
