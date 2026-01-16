@@ -1,5 +1,5 @@
-# Shoppu Online
-Shoppu is an online platform where you can buy and sell almost everything. The best deals are often done with people who live nearby.
+# Shoppu Online Uganda
+Shoppu is an online platform where you can buy and sell almost everything in Uganda. The best deals are often done with people who live nearby.
 
 ## Home Page 
 ![Homepage](shoppu%20image.png)  
